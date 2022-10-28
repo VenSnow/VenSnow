@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tim Hale
+- 👀 I’m interested in WebDevt and GameDev
+- 🌱 I’m currently learning: PHP, Laravel and started C++
+- 📫 How to reach me: Telegram: @timhale2104 or Email: timhale2104@icloud.com
